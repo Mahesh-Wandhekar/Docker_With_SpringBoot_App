@@ -9,7 +9,7 @@ public class MsgRestController {
 	
 	@GetMapping("/")
 	public String msg() {		
-		return "Welcome To Ashok It...! Learn Here Lead AnyWhere..!";
+		return "Welcome To Ashok It...! Learn Here Lead AnyWhere..! One OF The Best Teaching Center In HYd";
 	}
 	
 }
